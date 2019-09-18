@@ -1,4 +1,4 @@
-<h3>**Challenge 1**</h3>
+<h1>Challenge 1</h1>
 
 **Step 1<br>** 
 Challenge Link-<br>
